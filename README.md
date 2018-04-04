@@ -5,3 +5,6 @@ This project implements the majority of the algorithm and methodologies of the M
 http://ieeexplore.ieee.org/document/1251145/
 
 For project details, please refer to the IrisRecognition_INotebook.
+
+The dataset can be found at here:
+https://drive.google.com/open?id=1xsg885362hFVU2iXLOiSSxtL7YuE8IOU
